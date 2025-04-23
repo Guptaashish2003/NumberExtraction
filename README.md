@@ -59,10 +59,10 @@ Then open Car_Detection_Project_Final.ipynb.
 📷 Sample Inputs and Outputs
 <!-- Add your real image files here -->
 ### Original Image
-![Car Image](https://github.com/Guptaashish2003/NumberExtraction/blob/master/imgData/car17.jpg)
+![Car Image]([https://github.com/Guptaashish2003/NumberExtraction/blob/master/imgData/car17.jpg](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ix80c9t4i02mauqu212z.jpg)
 
 ### Extracted Output
-![Output Example](https://github.com/Guptaashish2003/NumberExtraction/blob/master/outputData/output4.png)
+![Output Example]([https://github.com/Guptaashish2003/NumberExtraction/blob/master/outputData/output4.png](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4dz5xrwsjjjxlkkotcur.png)
 
 
 
