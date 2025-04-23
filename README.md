@@ -58,13 +58,11 @@ jupyter notebook
 Then open Car_Detection_Project_Final.ipynb.
 📷 Sample Inputs and Outputs
 <!-- Add your real image files here -->
+### Original Image
+![Car Image](https://github.com/Guptaashish2003/NumberExtraction/blob/master/imgData/car17.jpg?raw=true)
 
- <h2>Input Image:</h2>
-<img src="https://github.com/Guptaashish2003/NumberExtraction/blob/master/imgData/car17.jpg?raw=true" alt="Car Image" width="500"/>
-
-
-<h2>Output with Detected Cars:</h2>
-<img src="https://github.com/Guptaashish2003/NumberExtraction/blob/master/outputData/output4.png?raw=true" alt="Output Example" width="500"/>
+### Extracted Output
+![Output Example](https://github.com/Guptaashish2003/NumberExtraction/blob/master/outputData/output4.png?raw=true)
 
 
 
